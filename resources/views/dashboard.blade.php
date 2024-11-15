@@ -22,7 +22,7 @@
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/gh/creativetimofficial/tailwind-starter-kit/compiled-tailwind.min.css"
     />
-    <title>Dashboard | Tailwind Starter Kit by Creative Tim</title>
+    <title>Admin Osis</title>
   </head>
   <body class="text-blueGray-700 antialiased">
     <noscript>You need to enable JavaScript to run this app.</noscript>
@@ -44,7 +44,7 @@
             class="md:block text-left md:pb-2 text-blueGray-600 mr-0 inline-block whitespace-nowrap text-sm uppercase font-bold p-4 px-0"
             href="javascript:void(0)"
           >
-            Tailwind Starter Kit
+            Admin Osis
           </a>
           <ul class="md:hidden items-center flex flex-wrap list-none">
             <li class="inline-block relative">
@@ -134,7 +134,7 @@
                     class="md:block text-left md:pb-2 text-blueGray-600 mr-0 inline-block whitespace-nowrap text-sm uppercase font-bold p-4 px-0"
                     href="javascript:void(0)"
                   >
-                    Tailwind Starter Kit
+                    Admin OSIS
                   </a>
                 </div>
                 <div class="w-6/12 flex justify-end">
@@ -166,14 +166,33 @@
                   Dashboard</a
                 >
               </li>
-              <li class="items-center">
-                <a
-                  class="text-blueGray-700 hover:text-blueGray-500 text-xs uppercase py-3 font-bold block"
-                  href="#/landing"
-                  ><i class="fas fa-newspaper text-blueGray-400 mr-2 text-sm"></i>
-                  Landing Page</a
+               <!-- Data Master Menu with Dropdown Submenu -->
+               <li class="items-center relative">
+                <button 
+                  type="button"
+                  onclick="toggleDropdown()"
+                  class="text-blueGray-700 hover:text-pink-600 text-xs uppercase py-3 font-bold block w-full flex items-center justify-between focus:outline-none"
                 >
+                  <span class="flex items-center">
+                    <i class="fas fa-database text-gray-400 mr-3"></i>
+                    Data Master
+                  </span>
+                  <i class="fas fa-chevron-down ml-auto"></i>
+                </button>
+                <ul id="dropdown" class="hidden mt-1 space-y-1 ml-8">
+                  <li>
+                    <a href="#/data-jabatan" class="text-gray-500 hover:text-pink-600 text-xs uppercase py-3 font-bold block">
+                      Data Jabatan
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#/data-department" class="text-gray-500 hover:text-pink-600 text-xs uppercase py-3 font-bold block">
+                      Data Department
+                    </a>
+                  </li>
+                </ul>
               </li>
+
               <li class="items-center">
                 <a
                   class="text-blueGray-700 hover:text-blueGray-500 text-xs uppercase py-3 font-bold block"
@@ -342,7 +361,7 @@
           </div>
         </nav>
         <!-- Header -->
-        <div class="relative bg-pink-600 md:pt-32 pb-32 pt-12">
+        <div class="relative bg-blue-600 md:pt-32 pb-32 pt-12">
           <div class="px-4 md:px-10 mx-auto w-full">
             <div>
               <!-- Card stats -->
@@ -856,6 +875,9 @@
     <script src="https://unpkg.com/@popperjs/core@2.9.1/dist/umd/popper.min.js" charset="utf-8"></script>
     <script type="text/javascript">
       /* Sidebar - Side navigation menu on mobile/responsive mode */
+      function toggleDropdown() {
+        document.getElementById("dropdown").classList.toggle("hidden");
+      }
       function toggleNavbar(collapseID) {
         document.getElementById(collapseID).classList.toggle("hidden");
         document.getElementById(collapseID).classList.toggle("bg-white");
@@ -1081,6 +1103,7 @@
         ctx = document.getElementById("bar-chart").getContext("2d");
         window.myBar = new Chart(ctx, config);
       })();
+      
     </script>
   </body>
 </html>
