@@ -190,6 +190,11 @@
                       Data Department
                     </a>
                   </li>
+                  <li>
+                    <a href="#/data-department" class="text-gray-500 hover:text-pink-600 text-xs uppercase py-3 font-bold block">
+                      Data Tahun Ajaran
+                    </a>
+                  </li>
                 </ul>
               </li>
 
