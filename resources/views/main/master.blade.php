@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-  <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#000000" />
@@ -22,6 +21,8 @@
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/gh/creativetimofficial/tailwind-starter-kit/compiled-tailwind.min.css"
     />
+    <link href="https://cdn.datatables.net/1.13.6/css/dataTables.tailwind.min.css" rel="stylesheet">
+
     <title>Admin Osis</title>
   </head>
   <body class="text-blueGray-700 antialiased">
