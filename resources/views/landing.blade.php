@@ -172,10 +172,9 @@
                   >
                     <i class="fas fa-award"></i>
                   </div>
-                  <h6 class="text-xl font-semibold">Awarded Agency</h6>
+                  <h6 class="text-xl font-semibold">Visi</h6>
                   <p class="mt-2 mb-4 text-gray-600">
-                    Divide details about your product or agency work into parts.
-                    A paragraph describing a feature will be enough.
+                  "Kerja Keras, Kerja Cerdas, untuk Sekolah yang Berkualitas."
                   </p>
                 </div>
               </div>
@@ -190,10 +189,9 @@
                   >
                     <i class="fas fa-retweet"></i>
                   </div>
-                  <h6 class="text-xl font-semibold">Free Revisions</h6>
+                  <h6 class="text-xl font-semibold">OSIS</h6>
                   <p class="mt-2 mb-4 text-gray-600">
-                    Keep you user engaged by providing meaningful information.
-                    Remember that by this time, the user is curious.
+                  "Memimpin dengan Kejujuran, Berorganisasi dengan Tanggung Jawab."
                   </p>
                 </div>
               </div>
@@ -208,10 +206,9 @@
                   >
                     <i class="fas fa-fingerprint"></i>
                   </div>
-                  <h6 class="text-xl font-semibold">Verified Company</h6>
+                  <h6 class="text-xl font-semibold">Misi</h6>
                   <p class="mt-2 mb-4 text-gray-600">
-                    Write a few lines about each one. A paragraph describing a
-                    feature will be enough. Keep you user engaged!
+                  "OSIS hadir untuk melayani, berkarya, dan memajukan."
                   </p>
                 </div>
               </div>
@@ -225,21 +222,21 @@
                 <i class="fas fa-user-friends text-xl"></i>
               </div>
               <h3 class="text-3xl mb-2 font-semibold leading-normal">
-                Working with us is a pleasure
+                Deskripsi Organisasi OSIS
               </h3>
               <p
                 class="text-lg font-light leading-relaxed mt-4 mb-4 text-gray-700"
               >
-                Don't let your uses guess by attaching tooltips and popoves to
-                any element. Just make sure you enable them first via
-                JavaScript.
+              OSIS (Organisasi Siswa Intra Sekolah) adalah sebuah organisasi yang dibentuk di tingkat sekolah,
+               Tujuan utama OSIS adalah untuk mengembangkan potensi kepemimpinan, keterampilan sosial, 
+               dan kreativitas siswa dalam berbagai bidang, serta menjadi wadah bagi siswa untuk berpartisipasi aktif dalam kegiatan sekolah.
               </p>
               <p
                 class="text-lg font-light leading-relaxed mt-0 mb-4 text-gray-700"
               >
-                The kit comes with three pre-built pages to help you get started
-                faster. You can change the text and images and you're good to
-                go. Just make sure you enable them first via JavaScript.
+              OSIS berfungsi untuk meningkatkan peran serta siswa dalam berbagai kegiatan sekolah,
+               baik yang bersifat akademis maupun non-akademis. OSIS juga menjadi saluran bagi siswa untuk menyampaikan ide, kritik, 
+               dan saran yang dapat membantu meningkatkan kualitas kegiatan di sekolah.
               </p>
               <a
                 href="https://www.creative-tim.com/learning-lab/tailwind-starter-kit#/presentation"
@@ -270,12 +267,11 @@
                     ></polygon>
                   </svg>
                   <h4 class="text-xl font-bold text-white">
-                    Top Notch Services
+                    OSIS
                   </h4>
                   <p class="text-md font-light mt-2 text-white">
-                    The Arctic Ocean freezes every winter and much of the
-                    sea-ice then thaws every summer, and that process will
-                    continue whatever happens.
+                  Secara keseluruhan, OSIS berfungsi untuk menciptakan iklim yang positif dan produktif di sekolah, 
+                  di mana siswa dapat belajar untuk bertanggung jawab, bekerja keras, dan berkontribusi dalam lingkungan sekolah.
                   </p>
                 </blockquote>
               </div>
@@ -377,11 +373,9 @@
         <div class="container mx-auto px-4">
           <div class="flex flex-wrap justify-center text-center mb-24">
             <div class="w-full lg:w-6/12 px-4">
-              <h2 class="text-4xl font-semibold">Here are our heroes</h2>
+              <h2 class="text-4xl font-semibold">Struktur Organisasi OSIS</h2>
               <p class="text-lg leading-relaxed m-4 text-gray-600">
-                According to the National Oceanic and Atmospheric
-                Administration, Ted, Scambos, NSIDClead scentist, puts the
-                potentially record maximum.
+                Berikut adalah Struktur Organisasi OSIS Periode 2024-2025
               </p>
             </div>
           </div>
@@ -429,9 +423,9 @@
                   style="max-width: 120px;"
                 />
                 <div class="pt-6 text-center">
-                  <h5 class="text-xl font-bold">Romina Hadid</h5>
+                  <h5 class="text-xl font-bold">Aisha Queena Syahira</h5>
                   <p class="mt-1 text-sm text-gray-500 uppercase font-semibold">
-                    Marketing Specialist
+                    Presiden OSIS
                   </p>
                   <div class="mt-6">
                     <button
@@ -458,9 +452,9 @@
                   style="max-width: 120px;"
                 />
                 <div class="pt-6 text-center">
-                  <h5 class="text-xl font-bold">Alexa Smith</h5>
+                  <h5 class="text-xl font-bold">Syarifah Khalil Uzwa</h5>
                   <p class="mt-1 text-sm text-gray-500 uppercase font-semibold">
-                    UI/UX Designer
+                    Wakil Presiden OSIS
                   </p>
                   <div class="mt-6">
                     <button
@@ -608,19 +602,19 @@
                 class="relative flex flex-col min-w-0 break-words w-full mb-6 shadow-lg rounded-lg bg-gray-300"
               >
                 <div class="flex-auto p-5 lg:p-10">
-                  <h4 class="text-2xl font-semibold">Want to work with us?</h4>
+                  <h4 class="text-2xl font-semibold">Punya saran dan kritik?</h4>
                   <p class="leading-relaxed mt-1 mb-4 text-gray-600">
-                    Complete this form and we will get back to you in 24 hours.
+                    Kirimkan saran dan kritikmu dan kami akan menerimanya.
                   </p>
                   <div class="relative w-full mb-3 mt-8">
                     <label
                       class="block uppercase text-gray-700 text-xs font-bold mb-2"
                       for="full-name"
-                      >Full Name</label
+                      >Nama Lengkap</label
                     ><input
                       type="text"
                       class="border-0 px-3 py-3 placeholder-gray-400 text-gray-700 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full"
-                      placeholder="Full Name"
+                      placeholder="Nama Lengkap..."
                       style="transition: all 0.15s ease 0s;"
                     />
                   </div>
@@ -628,11 +622,11 @@
                     <label
                       class="block uppercase text-gray-700 text-xs font-bold mb-2"
                       for="email"
-                      >Email</label
+                      >Kelas</label
                     ><input
                       type="email"
                       class="border-0 px-3 py-3 placeholder-gray-400 text-gray-700 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full"
-                      placeholder="Email"
+                      placeholder="Nama Kelas..."
                       style="transition: all 0.15s ease 0s;"
                     />
                   </div>
@@ -640,12 +634,12 @@
                     <label
                       class="block uppercase text-gray-700 text-xs font-bold mb-2"
                       for="message"
-                      >Message</label
+                      >Saran/Kritik</label
                     ><textarea
                       rows="4"
                       cols="80"
                       class="border-0 px-3 py-3 placeholder-gray-400 text-gray-700 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full"
-                      placeholder="Type a message..."
+                      placeholder="Tuliskan saran atau kritikmu disini..."
                     ></textarea>
                   </div>
                   <div class="text-center mt-6">
@@ -687,9 +681,9 @@
       <div class="container mx-auto px-4">
         <div class="flex flex-wrap">
           <div class="w-full lg:w-6/12 px-4">
-            <h4 class="text-3xl font-semibold">Let's keep in touch!</h4>
+            <h4 class="text-3xl font-semibold">"OSIS, yang terbaik"</h4>
             <h5 class="text-lg mt-0 mb-2 text-gray-700">
-              Find us on any of these platforms, we respond 1-2 business days.
+              Ayo gabung dengan kami dan memakmurkan sekolah bersama.
             </h5>
             <div class="mt-6">
               <button
@@ -720,35 +714,35 @@
               <div class="w-full lg:w-4/12 px-4 ml-auto">
                 <span
                   class="block uppercase text-gray-600 text-sm font-semibold mb-2"
-                  >Useful Links</span
+                  >Social Media</span
                 >
                 <ul class="list-unstyled">
                   <li>
                     <a
                       class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
                       href="https://www.creative-tim.com/presentation"
-                      >About Us</a
+                      >Instagram</a
                     >
                   </li>
                   <li>
                     <a
                       class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
                       href="https://blog.creative-tim.com"
-                      >Blog</a
+                      >Youtube</a
                     >
                   </li>
                   <li>
                     <a
                       class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
                       href="https://www.github.com/creativetimofficial"
-                      >Github</a
+                      >Tik Tok</a
                     >
                   </li>
                   <li>
                     <a
                       class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
                       href="https://www.creative-tim.com/bootstrap-themes/free"
-                      >Free Products</a
+                      >Twitter</a
                     >
                   </li>
                 </ul>
@@ -756,28 +750,28 @@
               <div class="w-full lg:w-4/12 px-4">
                 <span
                   class="block uppercase text-gray-600 text-sm font-semibold mb-2"
-                  >Other Resources</span
+                  >Contact Us</span
                 >
                 <ul class="list-unstyled">
                   <li>
                     <a
                       class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
                       href="https://github.com/creativetimofficial/argon-design-system/blob/master/LICENSE.md"
-                      >MIT License</a
+                      >Our Address : Jl.Mutiara, Lambgugob, Banda Aceh 23115</a
                     >
                   </li>
                   <li>
                     <a
                       class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
                       href="https://creative-tim.com/terms"
-                      >Terms &amp; Conditions</a
+                      >Email Us : alazharcairobna@gmail.com</a
                     >
                   </li>
                   <li>
                     <a
                       class="text-gray-700 hover:text-gray-900 font-semibold block pb-2 text-sm"
                       href="https://creative-tim.com/privacy"
-                      >Privacy Policy</a
+                      >Call Us : +62-372-3722</a
                     >
                   </li>
                   <li>
@@ -798,12 +792,12 @@
         >
           <div class="w-full md:w-4/12 px-4 mx-auto text-center">
             <div class="text-sm text-gray-600 font-semibold py-1">
-              Copyright © 2019 Tailwind Starter Kit by
+              Copyright © 2024 SMP Al-Azhar Cairo BNA
               <a
                 href="https://www.creative-tim.com"
                 class="text-gray-600 hover:text-gray-900"
-                >Creative Tim</a
-              >.
+                ></a
+              >
             </div>
           </div>
         </div>
