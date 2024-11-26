@@ -1,54 +1,53 @@
-<footer class="block py-4">
-    <div class="container mx-auto px-4">
-      <hr class="mb-4 border-b-1 border-blueGray-200" />
-      <div class="flex flex-wrap items-center md:justify-between justify-center">
-        <div class="w-full md:w-4/12 px-2">
-          <div class="text-sm text-blueGray-500 font-semibold py-1">
-            Copyright © <span id="javascript-date"></span>
-            <a
-              href="https://www.creative-tim.com"
-              class="text-blueGray-500 hover:text-blueGray-700 text-sm font-semibold py-1"
-            >
-              Sekolah Islam Al Azhar Cairo Banda Aceh
+<!-- begin::Footer -->
+<footer class="m-grid__item		m-footer ">
+  <div class="m-container m-container--fluid m-container--full-height m-page__container">
+    <div class="m-stack m-stack--flex-tablet-and-mobile m-stack--ver m-stack--desktop">
+      <div class="m-stack__item m-stack__item--left m-stack__item--middle m-stack__item--last">
+        <span class="m-footer__copyright">
+          2017 &copy; Metronic theme by
+          <a href="#" class="m-link">
+            Keenthemes
+          </a>
+        </span>
+      </div>
+      <div class="m-stack__item m-stack__item--right m-stack__item--middle m-stack__item--first">
+        <ul class="m-footer__nav m-nav m-nav--inline m--pull-right">
+          <li class="m-nav__item">
+            <a href="#" class="m-nav__link">
+              <span class="m-nav__link-text">
+                About
+              </span>
             </a>
-          </div>
-        </div>
-        <div class="w-full md:w-8/12 px-4">
-          <ul class="flex flex-wrap list-none md:justify-end  justify-center">
-            <li>
-              <a
-                href="https://www.creative-tim.com"
-                class="text-blueGray-600 hover:text-blueGray-800 text-sm font-semibold block py-1 px-3"
-              >
-                Creative Tim
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://www.creative-tim.com/presentation"
-                class="text-blueGray-600 hover:text-blueGray-800 text-sm font-semibold block py-1 px-3"
-              >
-                About Us
-              </a>
-            </li>
-            <li>
-              <a
-                href="http://blog.creative-tim.com"
-                class="text-blueGray-600 hover:text-blueGray-800 text-sm font-semibold block py-1 px-3"
-              >
-                Blog
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://github.com/creativetimofficial/tailwind-starter-kit/blob/main/LICENSE.md"
-                class="text-blueGray-600 hover:text-blueGray-800 text-sm font-semibold block py-1 px-3"
-              >
-                MIT License
-              </a>
-            </li>
-          </ul>
-        </div>
+          </li>
+          <li class="m-nav__item">
+            <a href="#"  class="m-nav__link">
+              <span class="m-nav__link-text">
+                Privacy
+              </span>
+            </a>
+          </li>
+          <li class="m-nav__item">
+            <a href="#" class="m-nav__link">
+              <span class="m-nav__link-text">
+                T&C
+              </span>
+            </a>
+          </li>
+          <li class="m-nav__item">
+            <a href="#" class="m-nav__link">
+              <span class="m-nav__link-text">
+                Purchase
+              </span>
+            </a>
+          </li>
+          <li class="m-nav__item m-nav__item">
+            <a href="#" class="m-nav__link" data-toggle="m-tooltip" title="Support Center" data-placement="left">
+              <i class="m-nav__link-icon flaticon-info m--icon-font-size-lg3"></i>
+            </a>
+          </li>
+        </ul>
       </div>
     </div>
-  </footer>
+  </div>
+</footer>
+<!-- end::Footer -->

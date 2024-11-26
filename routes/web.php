@@ -31,4 +31,6 @@ Route::middleware(['auth'])->group(function () {
     Route::post('/jabatan', [JabatanController::class, 'store'])->name('jabatan.store');
     Route::put('/jabatan/{id}', [JabatanController::class, 'update'])->name('jabatan.update');
     Route::delete('/jabatan/{id}', [JabatanController::class, 'destroy'])->name('jabatan.destroy');
+    Route::get('/tahun_ajaran', [TahunAjaranController::class, 'index'])->name('tahun_ajaran');
+    Route::get('/api/jabatan', [JabatanController::class, 'getData']);
 });

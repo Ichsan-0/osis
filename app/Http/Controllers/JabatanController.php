@@ -15,19 +15,8 @@ class JabatanController extends Controller
 
     public function getData(Request $request)
     {
-        if ($request->ajax()) {
-            $data = Jabatan::query();
-            \Log::info($data->get()); // Menambahkan log untuk melihat data
-            return DataTables::of($data)
-                ->addColumn('action', function ($row) {
-                    return '
-                    <button class="edit-btn text-blue-600" data-id="' . $row->id . '">Edit</button>
-                    <button class="delete-btn text-red-600" data-id="' . $row->id . '">Delete</button>
-                    ';
-                })
-                ->rawColumns(['action'])
-                ->make(true);
-        }
+        $dataJabatan = Jabatan::all(); // Ambil semua data Jabatan
+        return response()->json($dataJabatan); // Kembalikan data sebagai JSON
     }
 
     public function store(Request $request)
